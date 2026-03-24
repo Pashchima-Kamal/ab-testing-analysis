@@ -20,6 +20,27 @@ This project analyzes the effectiveness of a new landing page using A/B testing.
 ---
 
 
+## Project Structure
+
+
+```
+ab_testing_analysis/
+│
+├── Data/
+│   └── ab_testing.csv
+│
+├── Notebook/
+│   └── ab_testing_analysis.ipynb
+│
+├── Docs/
+│   └── experiment_report.md
+│
+└── README.md
+```
+
+---
+
+
 ## Key Features
 - Conversion rate comparison between control and treatment
 - Lift calculation
@@ -59,39 +80,3 @@ This project analyzes the effectiveness of a new landing page using A/B testing.
 
 
 The treatment should **not be rolled out**, as it does not demonstrate a statistically significant improvement and shows a negative directional trend.
-
-
----
-
-
-## Project Structure
-
-
-## Project Structure
-
-
-```
-ab_testing_analysis/
-│
-├── Data/
-│   └── ab_testing.csv
-│
-├── Notebook/
-│   └── ab_testing_analysis.ipynb
-│
-├── Docs/
-│   └── experiment_report.md
-│
-└── README.md
-```
-
-
-
-
----
-
-
-## Conclusion
-
-
-This project demonstrates how A/B testing can be used to make data-driven decisions and prevent ineffective or harmful changes from being deployed.
