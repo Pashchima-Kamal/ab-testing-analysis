@@ -69,7 +69,7 @@ The observed difference could be due to random variation.
 
 ## Confidence Interval
 
-- **95% Confidence Interval for difference in conversion**: ​​(-0.0038, 0.00086)
+**95% Confidence Interval for difference in conversion**: ​​(-0.0038, 0.00086)
 
 ### Interpretation
 
