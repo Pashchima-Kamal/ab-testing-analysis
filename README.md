@@ -33,7 +33,7 @@ ab_testing_analysis/
 │   └── ab_testing_analysis.ipynb
 │
 ├── Docs/
-│   └── experiment_report.md
+│   └── Experiment_Summary.md
 │
 └── README.md
 ```
