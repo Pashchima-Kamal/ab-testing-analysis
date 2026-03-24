@@ -55,9 +55,9 @@ The treatment resulted in a lower conversion rate compared to control.
 
 ## Statistical Significance
 
-- **p-value**: 0.2
+**p-value**: 0.2
 
-- **Interpretation**:
+### Interpretation:
 - p-value > 0.05  
 - Result is **not statistically significant**
 
@@ -79,7 +79,7 @@ The observed difference could be due to random variation.
   - no effect  
   - slightly positive  
 
-This reinforces that the result is **inconclusive**
+This reinforces that the result is **inconclusive**.
 
 
 ---
